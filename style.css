@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica;
+    text-align:center;
+    margin: 20px
+}
+.avatar {
+    width:150px;
+}
+.card {
+    width: 400;
+    padding:20px;
+    margin: 0px auto;
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #ddebf8;
+    border-bottom:6px solid plum;
+
+}
+.dotbd{
+    border: 2px dotted  rgb(170, 168, 168);
+}
